@@ -32,4 +32,6 @@ Add API key to ```script.js```. Run this Project on ```localhost```.
 ## Screenshots
 
 ![App Screenshot](https://github.com/AustinDsz/Weather-App/blob/main/screenshots/1.png)
+![App Screenshot](https://github.com/AustinDsz/Weather-App/blob/main/screenshots/2.png)
+![App Screenshot](https://github.com/AustinDsz/Weather-App/blob/main/screenshots/3.png)
 
